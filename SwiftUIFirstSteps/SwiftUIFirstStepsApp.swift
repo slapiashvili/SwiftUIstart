@@ -12,7 +12,9 @@ struct SwiftUIFirstStepsApp: App {
     var body: some Scene {
         WindowGroup {
             EditProfileView()
-            ContentView()
+            //comment the previous line and uncomment the next one for checking page 2
+            //ContentView()
+            
         }
     }
 }
